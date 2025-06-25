@@ -26,11 +26,9 @@ The dataset used for this project is a custom collection of images containing va
 
 The model's performance was evaluated using the validation dataset. It achieved a satisfactory level of accuracy in detecting and classifying different food items.
 
--   **mAP50-95:** [96.4%]
--   **Precision:** [93.4%]
--   **Recall:** [92.7%]
-
-*(These metrics can be found in your training logs, often in a file like `runs/detect/train/results.csv` or displayed at the end of the training process in your notebook).*
+-   **mAP50-95:** 96.4%
+-   **Precision:** 93.4%
+-   **Recall:** 92.7%
 
 ## Deployment
 
