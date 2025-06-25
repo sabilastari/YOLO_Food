@@ -20,7 +20,6 @@ The project followed a structured machine learning workflow:
 
 The dataset used for this project is a custom collection of images containing various food items. The data was sourced from public image repositories and personal collections. Each image was manually annotated with bounding boxes corresponding to the food items present.
 
-*Note: You can add more specific details here, such as the number of food classes, the total number of images, and where the images were sourced from.*
 
 ## Results and Validation
 
